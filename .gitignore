@@ -1,5 +1,8 @@
 # Created by https://www.gitignore.io
 
+## Don't add the widget file
+assets/HelloAccessoryConsumer.wgt
+
 ### Android ###
 # Built application files
 *.apk *.ap_
