@@ -13,8 +13,8 @@
 	<uses-permission android:name="com.samsung.WATCH_APP_TYPE.Integrated"/>
 
     <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="17" />
+        android:minSdkVersion="19"
+        android:targetSdkVersion="19" />
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
